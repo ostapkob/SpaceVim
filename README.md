@@ -22,4 +22,3 @@ what packages to install.
 
 - English: [https://spacevim.org/development/](https://spacevim.org/development/)
 - Chinese: [https://spacevim.org/cn/development/](https://spacevim.org/cn/development/)
-<!-- vim:set nowrap: -->
